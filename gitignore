@@ -23,24 +23,7 @@ DerivedData
 
 # Android/IntelliJ
 #
-build/
-.idea
-.gradle
-local.properties
-*.iml
-app/build/
-android/app/build/
-android/build/
-android/build 2/
-android/app/src/main/res/drawable-ldpi/
-android/app/src/main/res/drawable-mdpi/
-android/app/src/main/res/drawable-xhdpi/
-android/app/src/main/res/drawable-hdpi/
-android/app/src/main/res/drawable-xxhdpi/
-android/app/src/main/res/drawable-xxxhdpi/
-android/app/src/main/res/raw/
-android/app/release/
-android/.DS_Store
+
 
 # node.js
 #
